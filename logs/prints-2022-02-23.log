@@ -1,0 +1,8 @@
+23:35:00.369 [main] INFO  resources.Base - Driver is intialized
+23:35:03.952 [main] INFO  resources.Base - Navigate to Home Page
+23:35:04.049 [main] INFO  resources.Base - Successfully Validated text message
+23:35:10.090 [main] INFO  resources.Base - NON-Restricted Data
+23:35:12.177 [main] INFO  resources.Base - Restricted Data
+23:35:12.591 [main] INFO  resources.Base - displayed successfully
+23:37:26.079 [main] INFO  resources.Base - Driver is intialized
+23:37:30.071 [main] INFO  resources.Base - Navigate to Home Page

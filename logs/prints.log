@@ -1,0 +1,7 @@
+01:15:54.309 [TestNG] INFO  resources.Base - NON-Restricted Data
+01:15:56.661 [TestNG] INFO  resources.Base - Restricted Data
+11:38:41.331 [main] INFO  resources.Base - displayed successfully
+11:38:42.753 [main] INFO  resources.Base - Driver is intialized
+11:39:00.567 [main] INFO  resources.Base - Navigate to Home Page
+11:39:12.884 [main] INFO  resources.Base - NON-Restricted Data
+11:39:15.113 [main] INFO  resources.Base - Restricted Data
